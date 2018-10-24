@@ -18,3 +18,5 @@ github_username:  estandarte
 # Build settings
 markdown: kramdown
 remote_theme: fongandrew/hydeout
+
+theme: jekyll-theme-minimal
