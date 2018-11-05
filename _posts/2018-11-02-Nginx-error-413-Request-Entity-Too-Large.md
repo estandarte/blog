@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nginx error “413 Request Entity Too Large”'
-date: 2018-11-01 16:45 -0300
+date: 2018-11-02 22:00 -0300
 categories: symfony
 ---
 
